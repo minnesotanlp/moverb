@@ -14,3 +14,6 @@ pip install -r requirements.txt
 
 
 ## Models
+
+## Questions/Comments
+Email: [owan0002@umn.edu](mailto:owan0002@umn.edu)  
